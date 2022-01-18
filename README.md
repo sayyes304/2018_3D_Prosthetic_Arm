@@ -8,7 +8,7 @@
 - Arduino
 
 ## Demonstration
-<a href="#"><img src='./result/result1.jpg' width="350" height="500"/>
+<a href="#"><img src='./result/result1.jpg' width="350" height="480"/>
 
 
   
